@@ -1,0 +1,21 @@
+[
+  { "name": "Huwiler Sport", "logo": "/images/sponsors/huwiler-sport.png", "url": "http://www.huwiler-sport.ch/", "kategorie": "hauptsponsor", "beschreibung": "Hauptsponsor & Ausrüster" },
+  { "name": "Der Freiamter", "logo": "/images/sponsors/der-freiamter.png", "url": "https://www.derfreiaemter.ch/", "kategorie": "co-sponsor", "beschreibung": "Co-Sponsor" },
+  { "name": "Apotheke Egg", "logo": "/images/sponsors/apotheke-egg.png", "url": "https://www.apotheke.ch/egg", "kategorie": "co-sponsor", "beschreibung": "Co-Sponsor" },
+  { "name": "HBL", "logo": "/images/sponsors/hbl.png", "url": "https://www.hbl.ch/de/private/", "kategorie": "co-sponsor", "beschreibung": "Co-Sponsor" },
+  { "name": "Sprinter Logistik", "logo": "/images/sponsors/sprinter-logistik.png", "url": "https://sprinterlogistik.ch/", "kategorie": "top-sponsor", "beschreibung": "Top-Sponsor" },
+  { "name": "Ludin Optik", "logo": "/images/sponsors/ludin-optik.png", "url": "https://www.ludin-optik.ch/", "kategorie": "top-sponsor", "beschreibung": "Top-Sponsor" },
+  { "name": "AXA Muri", "logo": "/images/sponsors/axa.png", "url": "https://www.axa.ch/de/ueber-axa/standorte/agenturen/muri_50002597.html", "kategorie": "top-sponsor", "beschreibung": "Top-Sponsor" },
+  { "name": "Huber Druckerei", "logo": "/images/sponsors/huber-druckerei.png", "url": "https://huber-druckerei.ch/gestalten-drucken-kommunizieren", "kategorie": "top-sponsor", "beschreibung": "Top-Sponsor" },
+  { "name": "SLAAP", "logo": "/images/sponsors/slaap.png", "url": "https://www.slaap.ch", "kategorie": "top-sponsor", "beschreibung": "Top-Sponsor" },
+  { "name": "Gipser Huber", "logo": "/images/sponsors/gipser-huber.png", "url": "https://gipserhuber.ch", "kategorie": "top-sponsor", "beschreibung": "Top-Sponsor" },
+  { "name": "Robert Wild", "logo": "/images/sponsors/robert-wild.png", "url": "https://robertwild.ch", "kategorie": "top-sponsor", "beschreibung": "Top-Sponsor" },
+  { "name": "Stobag", "logo": "/images/sponsors/stobag.png", "url": "https://www.stobag.ch/ch/de", "kategorie": "top-sponsor", "beschreibung": "Top-Sponsor" },
+  { "name": "Marketingwerkstatt", "logo": "/images/sponsors/marketingwerkstatt.png", "url": "https://marketingwerkstatt.ch", "kategorie": "marketing-partner", "beschreibung": "Marketing-Partner" },
+  { "name": "Mobiliar Freiamt", "logo": "/images/sponsors/mobiliar.png", "url": "https://www.mobiliar.ch/versicherungen-und-vorsorge/generalagenturen/freiamt", "kategorie": "top-sponsor", "beschreibung": "Top-Sponsor" },
+  { "name": "BDO", "logo": "/images/sponsors/bdo.png", "url": "https://www.bdo.ch/de-ch/home-de", "kategorie": "anspielkreis", "beschreibung": "Anspielkreis" },
+  { "name": "Gsell", "logo": "/images/sponsors/gsell.png", "url": "https://www.gsell.ch/de", "kategorie": "business-kids", "beschreibung": "Business for Kids" },
+  { "name": "Energie Freiamt", "logo": "/images/sponsors/energie-freiamt.png", "url": "https://www.energie-freiamt.ch/", "kategorie": "business-kids", "beschreibung": "Business for Kids" },
+  { "name": "Spital Muri", "logo": "/images/sponsors/spital-muri.png", "url": "https://www.spital-muri.ch", "kategorie": "business-kids", "beschreibung": "Business for Kids" },
+  { "name": "Swisslos", "logo": "/images/sponsors/swisslos.png", "url": "https://www.swisslos.ch/de/home.html", "kategorie": "foerderverein", "beschreibung": "Förderverein" }
+]

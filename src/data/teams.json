@@ -1,0 +1,373 @@
+[
+  {
+    "id": "maenner1liga",
+    "slug": "maenner1liga",
+    "name": "Männer 1. Liga",
+    "kategorie": "maenner",
+    "liga": "1. Liga, Gruppe 2",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/39539",
+    "training": [
+      { "tag": "Dienstag", "zeit": "20:00–22:00", "halle": "Bachmatten Muri" },
+      { "tag": "Donnerstag", "zeit": "20:00–22:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "maenner2",
+    "slug": "maenner2",
+    "name": "Männer 2. Liga",
+    "kategorie": "maenner",
+    "liga": "2. Liga",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/39540",
+    "training": [
+      { "tag": "Dienstag", "zeit": "20:00–22:00", "halle": "Bachmatten Muri" },
+      { "tag": "Donnerstag", "zeit": "20:00–22:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "maenner4liga",
+    "slug": "maenner3",
+    "name": "Männer 4. Liga",
+    "kategorie": "maenner",
+    "liga": "4. Liga",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/39541",
+    "training": [
+      { "tag": "Dienstag", "zeit": "20:00–22:00", "halle": "Bachmatten Muri" },
+      { "tag": "Donnerstag", "zeit": "20:00–22:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "sgfrauen2ligas1",
+    "slug": "sgfrauen2liga2S1",
+    "name": "SG Frauen 2. Liga S1",
+    "kategorie": "frauen",
+    "liga": "2. Liga, S1",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/40165",
+    "training": [
+      { "tag": "Montag", "zeit": "20:00–22:00", "halle": "Bachmatten Muri" },
+      { "tag": "Mittwoch", "zeit": "20:00–22:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "sgfrauen2ligas2",
+    "slug": "sgfrauen2liga",
+    "name": "SG Frauen 2. Liga S2",
+    "kategorie": "frauen",
+    "liga": "2. Liga, S2",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/40168",
+    "training": [
+      { "tag": "Montag", "zeit": "20:00–22:00", "halle": "Bachmatten Muri" },
+      { "tag": "Mittwoch", "zeit": "20:00–22:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "sgfrauen3liga",
+    "slug": "sgfrauen3liga",
+    "name": "SG Frauen 3. Liga",
+    "kategorie": "frauen",
+    "liga": "3. Liga",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/40169",
+    "training": [
+      { "tag": "Montag", "zeit": "20:00–22:00", "halle": "Bachmatten Muri" },
+      { "tag": "Mittwoch", "zeit": "20:00–22:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "sgmu19inter",
+    "slug": "sgmu19inter",
+    "name": "SG MU19 Inter",
+    "kategorie": "nachwuchs",
+    "liga": "MU19 Inter",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/39542",
+    "training": [
+      { "tag": "Dienstag", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" },
+      { "tag": "Donnerstag", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "sgmu19promo",
+    "slug": "sgmu19promo",
+    "name": "SG MU19 Promotion",
+    "kategorie": "nachwuchs",
+    "liga": "MU19 Promotion",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/39543",
+    "training": [
+      { "tag": "Dienstag", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" },
+      { "tag": "Donnerstag", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "sgfu18",
+    "slug": "sgfu18",
+    "name": "SG FU18 Promotion",
+    "kategorie": "nachwuchs",
+    "liga": "FU18 Promotion",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/40465",
+    "training": [
+      { "tag": "Montag", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" },
+      { "tag": "Mittwoch", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "sgmu17inter",
+    "slug": "sgmu17inter",
+    "name": "SG MU17 Inter",
+    "kategorie": "nachwuchs",
+    "liga": "MU17 Inter",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/39544",
+    "training": [
+      { "tag": "Dienstag", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" },
+      { "tag": "Donnerstag", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "mu17promo",
+    "slug": "mu17promo",
+    "name": "MU17 Promotion",
+    "kategorie": "nachwuchs",
+    "liga": "MU17 Promotion",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/39545",
+    "training": [
+      { "tag": "Dienstag", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" },
+      { "tag": "Donnerstag", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "sgfu16",
+    "slug": "sgfu16",
+    "name": "SG FU16 Promotion 1",
+    "kategorie": "nachwuchs",
+    "liga": "FU16 Promotion",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/40468",
+    "training": [
+      { "tag": "Montag", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" },
+      { "tag": "Mittwoch", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "sgfu162",
+    "slug": "sgfu162",
+    "name": "SG FU16 Promotion 2",
+    "kategorie": "nachwuchs",
+    "liga": "FU16 Promotion",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/40173",
+    "training": [
+      { "tag": "Montag", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" },
+      { "tag": "Mittwoch", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "sgmu15inter",
+    "slug": "sgmu15inter",
+    "name": "SG MU15 Inter",
+    "kategorie": "nachwuchs",
+    "liga": "MU15 Inter",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/39546",
+    "training": [
+      { "tag": "Dienstag", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" },
+      { "tag": "Donnerstag", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "mu15promo",
+    "slug": "mu15promo",
+    "name": "MU15 Promotion",
+    "kategorie": "nachwuchs",
+    "liga": "MU15 Promotion",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/39547",
+    "training": [
+      { "tag": "Dienstag", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" },
+      { "tag": "Donnerstag", "zeit": "18:00–20:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "sgfu14promo1",
+    "slug": "sgfu14_1",
+    "name": "SG FU14 Promotion 1",
+    "kategorie": "nachwuchs",
+    "liga": "FU14 Promotion",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/40175",
+    "training": [
+      { "tag": "Montag", "zeit": "18:00–19:30", "halle": "Bachmatten Muri" },
+      { "tag": "Mittwoch", "zeit": "18:00–19:30", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "sgfu14promo2",
+    "slug": "sgfu14promo2",
+    "name": "SG FU14 Promotion 2",
+    "kategorie": "nachwuchs",
+    "liga": "FU14 Promotion",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/40176",
+    "training": [
+      { "tag": "Montag", "zeit": "18:00–19:30", "halle": "Bachmatten Muri" },
+      { "tag": "Mittwoch", "zeit": "18:00–19:30", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "fu14shooters",
+    "slug": "u14shooters",
+    "name": "FU14 Shooters",
+    "kategorie": "nachwuchs",
+    "liga": "FU13 Shooters",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/39550",
+    "training": [
+      { "tag": "Montag", "zeit": "18:00–19:30", "halle": "Bachmatten Muri" },
+      { "tag": "Mittwoch", "zeit": "18:00–19:30", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "sgmu13inter",
+    "slug": "u13inter",
+    "name": "SG MU13 Inter",
+    "kategorie": "nachwuchs",
+    "liga": "MU13 Inter",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/39548",
+    "training": [
+      { "tag": "Dienstag", "zeit": "18:00–19:30", "halle": "Bachmatten Muri" },
+      { "tag": "Donnerstag", "zeit": "18:00–19:30", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "mu13promo",
+    "slug": "mu13promo",
+    "name": "MU13 Promotion",
+    "kategorie": "nachwuchs",
+    "liga": "MU13 Promotion",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/39549",
+    "training": [
+      { "tag": "Dienstag", "zeit": "18:00–19:30", "halle": "Bachmatten Muri" },
+      { "tag": "Donnerstag", "zeit": "18:00–19:30", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "fu13shooters",
+    "slug": "u13shooters",
+    "name": "FU13 Shooters",
+    "kategorie": "nachwuchs",
+    "liga": "FU13 Shooters",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/39551",
+    "training": [
+      { "tag": "Montag", "zeit": "18:00–19:30", "halle": "Bachmatten Muri" },
+      { "tag": "Mittwoch", "zeit": "18:00–19:30", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "u11",
+    "slug": "u11",
+    "name": "U11",
+    "kategorie": "nachwuchs",
+    "liga": "U11",
+    "saison": "2025/26",
+    "matchcenter_url": null,
+    "training": [
+      { "tag": "Mittwoch", "zeit": "17:00–18:30", "halle": "Bachmatten Muri" },
+      { "tag": "Freitag", "zeit": "17:00–18:30", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "u9",
+    "slug": "u9",
+    "name": "U9",
+    "kategorie": "nachwuchs",
+    "liga": "U9",
+    "saison": "2025/26",
+    "matchcenter_url": null,
+    "training": [
+      { "tag": "Mittwoch", "zeit": "16:00–17:00", "halle": "Bachmatten Muri" },
+      { "tag": "Samstag", "zeit": "09:00–10:30", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "u7",
+    "slug": "u7",
+    "name": "U7",
+    "kategorie": "nachwuchs",
+    "liga": "U7",
+    "saison": "2025/26",
+    "matchcenter_url": null,
+    "training": [
+      { "tag": "Mittwoch", "zeit": "15:30–16:30", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "frauerondi",
+    "slug": "frauerondi",
+    "name": "Frauerondi",
+    "kategorie": "freizeit",
+    "liga": "Freizeit",
+    "saison": "2025/26",
+    "matchcenter_url": null,
+    "training": [
+      { "tag": "Montag", "zeit": "20:00–22:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "donnstigsrondi",
+    "slug": "donnstigsrondi",
+    "name": "Donnstigsrondi",
+    "kategorie": "freizeit",
+    "liga": "Freizeit",
+    "saison": "2025/26",
+    "matchcenter_url": null,
+    "training": [
+      { "tag": "Donnerstag", "zeit": "20:00–22:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "sdru",
+    "slug": "dru",
+    "name": "s'Drü",
+    "kategorie": "freizeit",
+    "liga": "Freizeit",
+    "saison": "2025/26",
+    "matchcenter_url": null,
+    "training": [
+      { "tag": "Donnerstag", "zeit": "12:00–13:30", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "doclub",
+    "slug": "do-club",
+    "name": "Do-Club",
+    "kategorie": "freizeit",
+    "liga": "Freizeit",
+    "saison": "2025/26",
+    "matchcenter_url": null,
+    "training": [
+      { "tag": "Donnerstag", "zeit": "09:00–11:00", "halle": "Bachmatten Muri" }
+    ]
+  },
+  {
+    "id": "sgfreiamttogether",
+    "slug": "together",
+    "name": "SG Freiamt together",
+    "kategorie": "freizeit",
+    "liga": "TogetherLeague",
+    "saison": "2025/26",
+    "matchcenter_url": "https://www.handball.ch/de/matchcenter/teams/40177",
+    "training": [
+      { "tag": "Mittwoch", "zeit": "20:00–22:00", "halle": "Bachmatten Muri" }
+    ]
+  }
+]

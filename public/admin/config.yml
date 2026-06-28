@@ -1,0 +1,64 @@
+backend:
+  name: github
+  repo: noelangehrn/tvmuri-website
+  branch: main
+
+media_folder: public/images
+public_folder: /images
+
+collections:
+  - name: news
+    label: "News"
+    files:
+      - file: "src/data/news.json"
+        name: news
+        label: "News Artikel"
+        format: json
+        fields:
+          - name: body
+            widget: list
+            label: "Artikel"
+            fields:
+              - { name: id, label: "ID", widget: string }
+              - { name: slug, label: "Slug", widget: string }
+              - { name: titel, label: "Titel", widget: string }
+              - { name: datum, label: "Datum", widget: datetime, format: "YYYY-MM-DD" }
+              - { name: autor, label: "Autor", widget: string }
+              - { name: kategorie, label: "Kategorie", widget: select, options: ["spielbericht", "vereinsnews", "ankuendigung"] }
+              - { name: team, label: "Team (optional)", widget: string, required: false }
+              - { name: teaser, label: "Teaser", widget: text }
+              - { name: inhalt, label: "Inhalt", widget: markdown }
+
+  - name: vorstand
+    label: "Vorstand"
+    files:
+      - file: "src/data/vorstand.json"
+        name: vorstand
+        label: "Vorstandsmitglieder"
+        format: json
+        fields:
+          - name: body
+            widget: list
+            label: "Personen"
+            fields:
+              - { name: name, label: "Name", widget: string }
+              - { name: funktion, label: "Funktion", widget: string }
+              - { name: email, label: "E-Mail", widget: string, required: false }
+
+  - name: sponsoren
+    label: "Sponsoren"
+    files:
+      - file: "src/data/sponsoren.json"
+        name: sponsoren
+        label: "Sponsoren"
+        format: json
+        fields:
+          - name: body
+            widget: list
+            label: "Sponsoren"
+            fields:
+              - { name: name, label: "Name", widget: string }
+              - { name: logo, label: "Logo (Pfad)", widget: string }
+              - { name: url, label: "URL", widget: string }
+              - { name: kategorie, label: "Kategorie", widget: select, options: ["hauptsponsor", "co-sponsor", "top-sponsor", "marketing-partner", "anspielkreis", "business-kids", "foerderverein"] }
+              - { name: beschreibung, label: "Beschreibung", widget: string, required: false }
