@@ -12,9 +12,10 @@ export default function KontaktPage() {
             <div className="flex items-start gap-3">
               <MapPin className="w-5 h-5 text-primary mt-0.5 shrink-0" />
               <div>
-                Handball TV Muri<br />
-                Postfach 158<br />
-                5630 Muri
+                <strong>Sporthalle Bachmatten</strong><br />
+                Bachmatten 13<br />
+                5630 Muri<br />
+                <span className="text-xs text-gray-400">(Postfach 158, 5630 Muri)</span>
               </div>
             </div>
             <div className="flex items-center gap-3">
@@ -61,7 +62,7 @@ export default function KontaktPage() {
       </div>
 
       <div className="rounded-xl overflow-hidden border border-gray-100">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2709.4183064560327!2d8.3350072!3d47.2475276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900b7c7c3c3c3f%3A0x3c3c3c3c3c3c3c3c!2sBachmatten%2C%205630%20Muri!5e0!3m2!1sde!2sch!4v1" width="100%" height="300" style={{ border: 0 }} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" title="Halle Bachmatten Muri"></iframe>
+        <iframe src="https://www.google.com/maps?q=Sporthalle+Bachmatten,+Bachmatten+13,+5630+Muri&output=embed" width="100%" height="300" style={{ border: 0 }} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" title="Sporthalle Bachmatten Muri"></iframe>
       </div>
     </div>
   );
