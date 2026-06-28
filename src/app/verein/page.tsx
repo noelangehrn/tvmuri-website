@@ -1,8 +1,9 @@
 import Link from "next/link";
 import Card from "@/components/ui/Card";
-import { Users, Building2, History, Calendar, Shield, UserPlus, Download } from "lucide-react";
+import { Users, Building2, History, Calendar, Shield, UserPlus, Download, Heart } from "lucide-react";
 
 const sections = [
+  { href: "/verein/leitbild", label: "Leitbild", icon: Heart, desc: "Unser Leitbild – #zämestark" },
   { href: "/verein/vorstand", label: "Vorstand", icon: Users, desc: "Das Präsidium und die Ressortverantwortlichen" },
   { href: "/verein/organisation", label: "Organisation", icon: Building2, desc: "Strukturen und Organisation des Vereins" },
   { href: "/verein/geschichte", label: "Geschichte", icon: History, desc: "Die Geschichte von Handball TV Muri seit 1996" },

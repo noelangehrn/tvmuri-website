@@ -9,6 +9,7 @@ export default function HeroSection() {
       </div>
       <div className="relative z-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 sm:py-32 lg:py-40 w-full">
         <div className="max-w-2xl">
+          <span className="inline-block text-5xl sm:text-7xl lg:text-9xl font-black text-primary/20 leading-none mb-2 select-none">#zämestark</span>
           <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold text-white mb-4 leading-tight">
             Die Freude am Handball <span className="text-primary">weitergeben</span>
           </h1>
