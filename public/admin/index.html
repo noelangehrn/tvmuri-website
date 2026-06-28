@@ -12,7 +12,7 @@
   <script src="https://unpkg.com/decap-cms@^3/dist/decap-cms.js" onload="
     CMS.init({
       config: {
-        backend: { name: 'github', repo: 'noelangehrn/tvmuri-website', branch: 'main' },
+        backend: { name: 'github', repo: 'noelangehrn/tvmuri-website', branch: 'main', base_url: 'https://tvmuri-website.vercel.app', auth_endpoint: 'api/auth' },
         media_folder: 'public/images',
         public_folder: '/images',
         collections: [
