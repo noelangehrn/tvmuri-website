@@ -11,7 +11,7 @@ export default function HeroSection() {
         <div className="max-w-2xl">
           <span className="inline-block text-5xl sm:text-7xl lg:text-9xl font-black text-primary/20 leading-none mb-2 select-none">#zämestark</span>
           <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold text-white mb-4 leading-tight">
-            Die Freude am Handball <span className="text-primary">weitergeben</span>
+            Handball TV Muri
           </h1>
           <p className="text-lg sm:text-xl lg:text-2xl text-gray-300 mb-8 max-w-xl">
             Handball TV Muri – über 25 Teams, eine Leidenschaft. Seit 1996 zuhause in der Halle Bachmatten.

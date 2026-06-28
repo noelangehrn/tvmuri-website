@@ -12,7 +12,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <div className="flex items-center gap-3 mb-4">
-              <Image src="/images/logo.svg" alt="TV Muri" width={40} height={40} className="w-10 h-10 brightness-0 invert" />
+              <Image src="/images/logo.jpg" alt="TV Muri" width={40} height={40} className="w-10 h-10 brightness-0 invert" />
               <span className="text-xl font-bold">Handball TV Muri</span>
             </div>
             <p className="text-gray-400 text-sm">Handballbegeisterung seit 1996. Wir leben den Handballsport in Muri und der Region Freiamt.</p>
